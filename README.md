@@ -4,7 +4,7 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/huam-benvenutti)
 
 ### :mortar_board: Cursando Bacharelado em Sistemas de Informação - IFC-Araquari
-### :computer: Trabalhando em um projeto pessoal chamado Democratizando o Ensino
+### :computer: Trabalhando em um projeto pessoal chamado ![Democratizando o Ensino](https://github.com/SevenSeas-tech/dem-ensino)
 <hr>
 
 
