@@ -4,7 +4,7 @@
 [![protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](huambenvenutti@protonmail.com)
 [![protonmail](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/huam-benvenutti)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hbenvenutti&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hbenvenutti&theme=blue-white)
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=hbenvenutti&show_icons=true)
 <!--
