@@ -5,6 +5,8 @@
 
 [![protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:huambenvenutti@protonmail.com)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/huam-benvenutti)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+ 	
 
 ### :mortar_board: Cursando Bacharelado em Sistemas de Informação - ![IFC Araquari](https://araquari.ifc.edu.br/)
 ### :computer: Trabalhando em um projeto pessoal chamado ![Democratizando o Ensino](https://github.com/SevenSeas-tech/dem-ensino)
