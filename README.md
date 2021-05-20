@@ -8,17 +8,33 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
  	
 
-### :mortar_board: Cursando Bacharelado em Sistemas de Informação - ![IFC Araquari](https://araquari.ifc.edu.br/)
-### :computer: Trabalhando em um projeto pessoal chamado ![Democratizando o Ensino](https://github.com/SevenSeas-tech/dem-ensino)
+### :mortar_board: Cursando Bacharelado em Sistemas de Informação - ![IFC Araquari](https://araquari.ifc.edu.br/).
+### :computer: Trabalhando em um projeto pessoal chamado ![Democratizando o Ensino](https://github.com/SevenSeas-tech/dem-ensino).
 ### :book: Estudando tecnologias Javascript como Node, React e React Native. Interessado em aprender sobre React VR, Deno e Rust.
 
-Acredito que Deno é uma tecnologia que vai ganhar mercado no futuro, mas que vai levar um tempo para ter conteúdo abuntante em português. Então vou deixar o link para as minhas [anotações](https://www.notion.so/Deno-0c7cac084b9443fcaedbe679e77ea551) em português sobre essa tecnologia.
+Acredito que Deno vai ganhar bastante mercado no futuro, mas que vai levar um tempo para ter conteúdo abuntante em português. Então vou deixar o link para as minhas [anotações](https://www.notion.so/Deno-0c7cac084b9443fcaedbe679e77ea551) em português sobre essa tecnologia.
 
 <hr>
-  
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hbenvenutti&theme=blue-white)
 
+## Democratizando o ensino:
+
+Estou desenvolvendo uma aplicação para auxiliar alunos de todas as áreas. A ideia é criar uma biblioteca de vídeo aulas. A aplicação vai organizar os vídeos e os alunos poderão buscar por matérias, professores, ou por conteúdo.
+
+Esses vídeos não estarão hospedados na plataforma. De início eu quero buscar aulas que estejam hospedadas no YouTube, mas nada impede que depois sejam adicionadas outras API's.
+
+Por que os alunos precisam de uma plataforma assim? Porque quando se faz uma pesquisa no Youtube, ele as vezes entrega vídeos de qualidade duvidosa ou que não são aulas, só alguém comentando sobre o tema.
+
+Democratizando o ensino não fará buscas diretas à API do Youtube, a aplicação terá um banco de dados próprio que aponta para um url no youtube. Sendo assim, mesmo depois de pronta, a plataforma ainda precisará ter seu banco de dados "alimentado".
+
+A aplicação será gratuita. A ideia é fazer o intermédio entre aluno e conteúdo, não ganhar dinheiro com o conteúdo alheio.
+
+Link para o repositório: https://github.com/sevenseas-tech/dem-ensino;
+
+<hr>
+ 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hbenvenutti&theme=blue-white)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=hbenvenutti&show_icons=true)
+
 
 <!--
 **hbenvenutti/hbenvenutti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
