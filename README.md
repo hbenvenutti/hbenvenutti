@@ -28,7 +28,7 @@ Democratizando o ensino não fará buscas diretas à API do Youtube, a aplicaç�
 
 A aplicação será gratuita. A ideia é fazer o intermédio entre aluno e conteúdo, não ganhar dinheiro com o conteúdo alheio.
 
-Link para o repositório: https://github.com/sevenseas-tech/dem-ensino;
+![Link para o repositório.](https://github.com/SevenSeas-tech/dem-ensino)
 
 <hr>
  
