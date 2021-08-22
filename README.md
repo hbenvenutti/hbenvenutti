@@ -10,7 +10,9 @@
 
 ### :mortar_board: Cursando Bacharelado em Sistemas de Informação - ![IFC Araquari](https://araquari.ifc.edu.br/).
 ### :computer: Trabalhando em um projeto pessoal chamado ![Democratizando o Ensino](https://github.com/SevenSeas-tech/dem-ensino).
+### 🖥️: Guia para customizar o ![zsh sem Oh My Zsh!](https://hbenvenutti.notion.site/Configurando-o-ZSH-sem-o-OH-MY-ZSH-64cffdcbc55745339a8a1c2d9c1455d2)
 ### :book: Estudando tecnologias Javascript como Node, React e React Native. Interessado em aprender sobre React VR, Deno e Rust.
+
 
 Acredito que Deno vai ganhar bastante mercado no futuro, mas que vai levar um tempo para ter conteúdo abuntante em português. Então vou deixar o link para as minhas [anotações](https://www.notion.so/Deno-0c7cac084b9443fcaedbe679e77ea551) em português sobre essa tecnologia.
 
