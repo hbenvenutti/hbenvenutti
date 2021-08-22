@@ -12,6 +12,8 @@
 ![Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+<hr>
  	
 
 ### :mortar_board: Cursando Bacharelado em Sistemas de Informação - ![IFC Araquari](https://araquari.ifc.edu.br/).
