@@ -14,41 +14,46 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 <hr>
- 	
 
-### :mortar_board: Cursando Bacharelado em Sistemas de Informação - ![IFC Araquari](https://araquari.ifc.edu.br/).
-### :computer: Trabalhando em um projeto pessoal chamado ![Democratizando o Ensino](https://github.com/SevenSeas-tech/dem-ensino).
-### 🖥️ Guia para customizar o ![zsh sem Oh My Zsh!](https://hbenvenutti.notion.site/Configurando-o-ZSH-sem-o-OH-MY-ZSH-64cffdcbc55745339a8a1c2d9c1455d2)
-### :book: Estudando tecnologias Javascript como Node, React e React Native. Interessado em aprender sobre React VR, Deno e Rust.
-
-
-Acredito que Deno vai ganhar bastante mercado no futuro, mas que vai levar um tempo para ter conteúdo abuntante em português. Então vou deixar o link para as minhas [anotações](https://www.notion.so/Deno-0c7cac084b9443fcaedbe679e77ea551) em português sobre essa tecnologia.
+<div align="center">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hbenvenutti&show_icons=true&theme=onedark&count_private=true">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbenvenutti&layout=compact&theme=onedark"> 
+</div>
 
 <hr>
 
+:mortar_board: Cursando Bacharelado em Sistemas de Informação - ![IFC Araquari](https://araquari.ifc.edu.br/).
+
+:computer: Trabalhando em um projeto pessoal chamado ![Democratizando o Ensino](https://github.com/SevenSeas-tech/dem-ensino).
+
+🖥️ Guia para customizar o ![zsh sem Oh My Zsh!](https://hbenvenutti.notion.site/Configurando-o-ZSH-sem-o-OH-MY-ZSH-64cffdcbc55745339a8a1c2d9c1455d2)
+
+:book: Estudando tecnologias Javascript como Node, React e React Native. Interessado em aprender sobre React VR, Deno e Rust.
+
+
+<hr>
+
+
 ## Democratizando o ensino:
 
-Estou desenvolvendo uma aplicação para auxiliar alunos de todas as áreas. A ideia é criar uma biblioteca de vídeo aulas. A aplicação vai organizar os vídeos e os alunos poderão buscar por matérias, professores, ou por conteúdo.
+ Estou desenvolvendo uma aplicação para auxiliar alunos de todas as áreas. A ideia é criar uma biblioteca de vídeo aulas. A aplicação vai organizar os vídeos e os alunos poderão buscar por matérias, professores, ou por conteúdo.
 
-Esses vídeos não estarão hospedados na plataforma. De início eu quero buscar aulas que estejam hospedadas no YouTube, mas nada impede que depois sejam adicionadas outras API's.
+ Esses vídeos não estarão hospedados na plataforma. De início eu quero buscar aulas que estejam hospedadas no YouTube, mas nada impede que depois sejam adicionadas outras API's.
 
 Por que os alunos precisam de uma plataforma assim? Porque quando se faz uma pesquisa no Youtube, ele as vezes entrega vídeos de qualidade duvidosa ou que não são aulas, só alguém comentando sobre o tema.
 
 Democratizando o ensino não fará buscas diretas à API do Youtube, a aplicação terá um banco de dados próprio que aponta para um url no youtube. Sendo assim, mesmo depois de pronta, a plataforma ainda precisará ter seu banco de dados "alimentado".
 
 A aplicação será gratuita. A ideia é fazer o intermédio entre aluno e conteúdo, não ganhar dinheiro com o conteúdo alheio.
+  </p>
+ <a href="https://github.com/SevenSeas-tech/dem-ensino">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SevenSeas-tech&repo=dem-ensino&theme=onedark">
+ </a>
 
-![Link para o repositório.](https://github.com/SevenSeas-tech/dem-ensino)
 
 <hr>
 
-<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hbenvenutti&show_icons=true&theme=onedark&count_private=true">
- 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbenvenutti&layout=compact&theme=onedark"> 
-
-</div>
 
 
 <!--
