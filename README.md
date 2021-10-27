@@ -17,7 +17,7 @@
  </a>
  
  <a href="mailto:huambenvenutti@protonmail.com">
-  <img alt="email" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
+  <img alt="email" height="60" src="https://www.vectorlogo.zone/logos/protonmail/protonmail-ar21.svg" />
  </a>
 </div>
 
