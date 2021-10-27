@@ -53,6 +53,7 @@ A aplicação será gratuita. A ideia é fazer o intermédio entre aluno e conte
 
 <hr>
 
+![Snake animation](https://github.com/hbenvenutti/hbenvenutti/blob/output/github-contribution-grid-snake.svg)
 
 
 
