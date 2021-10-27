@@ -3,7 +3,10 @@
 [![Gists Badge](https://badges.pufler.dev/gists/hbenvenutti)](https://badges.pufler.dev)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=hbenvenutti)
 
+
+
 <hr>
+<img src="https://i.imgur.com/Jxdyx95.jpg">
 
 <div align="center">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hbenvenutti&show_icons=true&theme=onedark&count_private=true">
