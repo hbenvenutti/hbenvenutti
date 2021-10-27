@@ -41,9 +41,14 @@ A aplicação será gratuita. A ideia é fazer o intermédio entre aluno e conte
 ![Link para o repositório.](https://github.com/SevenSeas-tech/dem-ensino)
 
 <hr>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hbenvenutti&show_icons=true&theme=onedark&count_private=true">
  
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hbenvenutti&theme=blue-white)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=hbenvenutti&show_icons=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbenvenutti&layout=compact&theme=onedark"> 
+
+</div>
 
 
 <!--
