@@ -65,11 +65,11 @@ A aplicação será gratuita. A ideia é fazer o intermédio entre aluno e conte
 </p>
 
 <div align="center">
-  <a href="https://github.com/SevenSeas-tech/dem-ensino">
+  <a href="https://github.com/SevenSeas-tech/demen">
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SevenSeas-tech&repo=dem-ensino&theme=onedark">
   </a>
  
-   <a href="https://github.com/SevenSeas-tech/dem-ensino">
+   <a href="https://github.com/SevenSeas-tech/demen-backend">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SevenSeas-tech&repo=demen-backend&theme=onedark">
    </a>
 </div>
