@@ -9,8 +9,8 @@
 <img src="https://i.imgur.com/Jxdyx95.jpg">
 
 <div align="center">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hbenvenutti&show_icons=true&theme=onedark&count_private=true">
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbenvenutti&layout=compact&theme=onedark"> 
+ <img height="165em" src="https://github-readme-stats.vercel.app/api?username=hbenvenutti&show_icons=true&theme=onedark&count_private=true">
+ <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbenvenutti&layout=compact&theme=onedark"> 
 </div>
 
 ## Contato
@@ -61,11 +61,18 @@ Por que os alunos precisam de uma plataforma assim? Porque quando se faz uma pes
 Democratizando o ensino não fará buscas diretas à API do Youtube, a aplicação terá um banco de dados próprio que aponta para um url no youtube. Sendo assim, mesmo depois de pronta, a plataforma ainda precisará ter seu banco de dados "alimentado".
 
 A aplicação será gratuita. A ideia é fazer o intermédio entre aluno e conteúdo, não ganhar dinheiro com o conteúdo alheio.
-  </p>
- <a href="https://github.com/SevenSeas-tech/dem-ensino">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SevenSeas-tech&repo=dem-ensino&theme=onedark">
- </a>
 
+</p>
+
+<div align="center">
+  <a href="https://github.com/SevenSeas-tech/dem-ensino">
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SevenSeas-tech&repo=dem-ensino&theme=onedark">
+  </a>
+ 
+   <a href="https://github.com/SevenSeas-tech/dem-ensino">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SevenSeas-tech&repo=demen-backend&theme=onedark">
+   </a>
+</div>
 
 <hr>
 
