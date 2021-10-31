@@ -2,6 +2,8 @@
 [![Repos Badge](https://badges.pufler.dev/repos/hbenvenutti)](https://badges.pufler.dev)
 [![Gists Badge](https://badges.pufler.dev/gists/hbenvenutti)](https://badges.pufler.dev)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=hbenvenutti)
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/hbenvenutti?style=plastic">
+<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/hbenvenutti?style=plastic">
 
 
 
@@ -66,7 +68,7 @@ A aplicação será gratuita. A ideia é fazer o intermédio entre aluno e conte
 
 <div align="center">
   <a href="https://github.com/SevenSeas-tech/demen">
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SevenSeas-tech&repo=dem-ensino&theme=onedark">
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SevenSeas-tech&repo=demen&theme=onedark">
   </a>
  
    <a href="https://github.com/SevenSeas-tech/demen-backend">
