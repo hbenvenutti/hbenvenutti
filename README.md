@@ -2,7 +2,9 @@
 [![Repos Badge](https://badges.pufler.dev/repos/hbenvenutti)](https://badges.pufler.dev)
 [![Gists Badge](https://badges.pufler.dev/gists/hbenvenutti)](https://badges.pufler.dev)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=hbenvenutti)
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/hbenvenutti?style=plastic">
+<a href="https://github.com/hbenvenutti?tab=followers">
+ <img alt="GitHub followers" src="https://img.shields.io/github/followers/hbenvenutti?style=plastic"/>
+</a>
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/hbenvenutti?style=plastic">
 
 
