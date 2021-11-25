@@ -7,9 +7,8 @@
 </a>
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/hbenvenutti?style=plastic">
 
-
-
 <hr>
+
 <img src="https://i.imgur.com/Jxdyx95.jpg">
 
 <div align="center">
@@ -17,19 +16,35 @@
  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbenvenutti&layout=compact&theme=onedark"> 
 </div>
 
-## Contato
+<hr>
+<br/>
+
+# 💬 About me
+:mortar_board: Studing Bacharelado em Sistemas de Informação on [IFC Araquari](https://araquari.ifc.edu.br/).
+In process of transfer to Porto Alegre/RS
+
+
+
+:book: Studying Javscript technologies such as Node, React, Next and React Native. Also interested in Deno, Rust and React VR.
+
+<br/>
+<br/>
+
+# 📫 How to reach me
 <div>
  <a href="https://linkedin.com/in/huam-benvenutti">
-  <img alt="linkedin" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+  <img alt="linkedin" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
  </a>
  
  <a href="mailto:huambenvenutti@protonmail.com">
-  <img alt="email" height="60" src="https://www.vectorlogo.zone/logos/protonmail/protonmail-ar21.svg" />
+  <img alt="email" height="40" src="https://www.vectorlogo.zone/logos/protonmail/protonmail-ar21.svg" />
  </a>
 </div>
 
-## Skills
+<br/>
+<br/>
 
+# 🖥️ Languages and Technologies
 <div align="center">
  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" />
@@ -40,33 +55,14 @@
  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
 </div>
-<hr>
 
-:mortar_board: Cursando Bacharelado em Sistemas de Informação - ![IFC Araquari](https://araquari.ifc.edu.br/).
+<br/>
+<br/>
 
-:computer: Trabalhando em um projeto pessoal chamado ![Democratizando o Ensino](https://github.com/SevenSeas-tech/dem-ensino).
+# 🔭 I’m currently working on ...
 
-🖥️ Guia para customizar o ![zsh sem Oh My Zsh!](https://hbenvenutti.notion.site/Configurando-o-ZSH-sem-o-OH-MY-ZSH-64cffdcbc55745339a8a1c2d9c1455d2)
-
-:book: Estudando tecnologias Javascript como Node, React e React Native. Interessado em aprender sobre React VR, Deno e Rust.
-
-
-<hr>
-
-
-## Democratizando o ensino:
-
- Estou desenvolvendo uma aplicação para auxiliar alunos de todas as áreas. A ideia é criar uma biblioteca de vídeo aulas. A aplicação vai organizar os vídeos e os alunos poderão buscar por matérias, professores, ou por conteúdo.
-
- Esses vídeos não estarão hospedados na plataforma. De início eu quero buscar aulas que estejam hospedadas no YouTube, mas nada impede que depois sejam adicionadas outras API's.
-
-Por que os alunos precisam de uma plataforma assim? Porque quando se faz uma pesquisa no Youtube, ele as vezes entrega vídeos de qualidade duvidosa ou que não são aulas, só alguém comentando sobre o tema.
-
-Democratizando o ensino não fará buscas diretas à API do Youtube, a aplicação terá um banco de dados próprio que aponta para um url no youtube. Sendo assim, mesmo depois de pronta, a plataforma ainda precisará ter seu banco de dados "alimentado".
-
-A aplicação será gratuita. A ideia é fazer o intermédio entre aluno e conteúdo, não ganhar dinheiro com o conteúdo alheio.
-
-</p>
+### Democratizando o ensino:
+I am developing a free application to help students around the wolrd. It is a library of video classes. Peopole will be able to search for teacher, courses, channels, etc.
 
 <div align="center">
   <a href="https://github.com/SevenSeas-tech/demen">
@@ -77,6 +73,16 @@ A aplicação será gratuita. A ideia é fazer o intermédio entre aluno e conte
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SevenSeas-tech&repo=demen-backend&theme=onedark">
    </a>
 </div>
+
+<br/>
+<br/>
+
+# :feather: Some other content of my own
+
+* [🖥️ Guide to customize zsh without Oh My Zsh!](https://hbenvenutti.notion.site/Configurando-o-ZSH-sem-o-OH-MY-ZSH-64cffdcbc55745339a8a1c2d9c1455d2)
+
+<br/>
+<br/>
 
 <hr>
 
