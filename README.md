@@ -41,6 +41,8 @@ In process of transfer to Porto Alegre/RS
  </a>
 </div>
 
+  <i class="fab fa-dev"></i>
+
 <br/>
 <br/>
 
@@ -79,6 +81,7 @@ I am developing a free application to help students around the wolrd. It is a li
 
 # :feather: Some other content of my own
 
+* [Dev.to](https://dev.to/hbenvenutti)
 * [🖥️ Guide to customize zsh without Oh My Zsh!](https://dev.to/hbenvenutti/using-zsh-without-omz-4gch)
 
 <br/>
