@@ -79,7 +79,7 @@ I am developing a free application to help students around the wolrd. It is a li
 
 # :feather: Some other content of my own
 
-* [🖥️ Guide to customize zsh without Oh My Zsh!](https://hbenvenutti.notion.site/Configurando-o-ZSH-sem-o-OH-MY-ZSH-64cffdcbc55745339a8a1c2d9c1455d2)
+* [🖥️ Guide to customize zsh without Oh My Zsh!](https://dev.to/hbenvenutti/using-zsh-without-omz-4gch)
 
 <br/>
 <br/>
