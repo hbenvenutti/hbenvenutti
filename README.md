@@ -1,11 +1,27 @@
-[![Years Badge](https://badges.pufler.dev/years/hbenvenutti)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/hbenvenutti)](https://badges.pufler.dev)
-[![Gists Badge](https://badges.pufler.dev/gists/hbenvenutti)](https://badges.pufler.dev)
+
+![Years Badge](https://badges.strrl.dev/years/hbenvenutti)
+![Public Repos Badge](https://badges.strrl.dev/repos/hbenvenutti)
+![Public Gists Badge](https://badges.strrl.dev/gists/hbenvenutti)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=hbenvenutti)
 <a href="https://github.com/hbenvenutti?tab=followers">
  <img alt="GitHub followers" src="https://img.shields.io/github/followers/hbenvenutti?style=plastic"/>
 </a>
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/hbenvenutti?style=plastic">
+
+![Contributions Badge](https://badges.strrl.dev/contributions/all/hbenvenutti)
+![Contributions Badge](https://badges.strrl.dev/contributions/yearly/hbenvenutti)
+![Contributions Badge](https://badges.strrl.dev/contributions/monthly/hbenvenutti)
+![Contributions Badge](https://badges.strrl.dev/contributions/weekly/hbenvenutti)
+![Contributions Badge](https://badges.strrl.dev/contributions/daily/hbenvenutti)
+
+
+<!-- 
+ Badges antigos que sairam do ar:
+ 
+ [![Years Badge](https://badges.pufler.dev/years/hbenvenutti)](https://badges.pufler.dev)
+ [![Repos Badge](https://badges.pufler.dev/repos/hbenvenutti)](https://badges.pufler.dev)
+ [![Gists Badge](https://badges.pufler.dev/gists/hbenvenutti)](https://badges.pufler.dev)
+-->
 
 <hr>
 
