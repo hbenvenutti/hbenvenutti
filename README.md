@@ -81,19 +81,23 @@ In process of transfer to Porto Alegre/RS
 
 ### Democratizando o ensino:
 I am developing a free application to help students around the wolrd. It is a library of video classes. Peopole will be able to search for teacher, courses, channels, etc.
-
-<div align="center">
-  <a href="https://github.com/SevenSeas-tech/demen">
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SevenSeas-tech&repo=demen&theme=onedark">
-  </a>
- 
+   
    <a href="https://github.com/SevenSeas-tech/demen-backend">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SevenSeas-tech&repo=demen-backend&theme=onedark">
    </a>
-</div>
+   
+<div align="center"></div>
 
 <br/>
 <br/>
+
+### Brincando com Deno:
+Deno chama a minha atenção por rodar typescript nativamente. Então eu estou experimentando a tecnologia.
+
+  <a href="https://github.com/SevenSeas-tech/demen">
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=hbenvenutti&repo=car_rental&theme=onedark">
+  </a>
+ 
 
 # :feather: Some other content of my own
 
