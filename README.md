@@ -89,6 +89,18 @@ I am developing a free application to help students around the wolrd. It is a li
 <div align="center"></div>
 
 <br/>
+<hr>
+<br/>
+
+### Projetos concluidos:
+Projetos finalizados que eu fiz como teste para provar experiência.
+
+  <a href="https://github.com/hbenvenutti/biblioteca-backend">
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=hbenvenutti&repo=biblioteca-backend&theme=onedark">
+  </a>
+
+<br/>
+<hr>
 <br/>
 
 ### Brincando com Deno:
