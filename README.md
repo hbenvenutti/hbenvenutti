@@ -77,7 +77,7 @@ In process of transfer to Porto Alegre/RS
 <br/>
 <br/>
 
-# ✔️ PROJECTS THAT I'VE FINISHED
+# ✔️ Projects that I've finished
 These are my projects that have a "completed" status. I won't be working on them anytime soon.
 
   <a href="https://github.com/hbenvenutti/biblioteca-backend">
