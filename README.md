@@ -36,12 +36,12 @@
 <br/>
 
 # 💬 About me
-:mortar_board: Studing Bacharelado em Sistemas de Informação on [IFC Araquari](https://araquari.ifc.edu.br/).
+:mortar_board: Studying Bacharelado em Sistemas de Informação on [IFC Araquari](https://araquari.ifc.edu.br/).
 In process of transfer to Porto Alegre/RS
 
 
 
-:book: Studying Javscript technologies such as Node, React, Next and React Native. Also interested in Deno, Rust and React VR.
+:book: Studying Javascript technologies such as Node, React, Next and React Native. Also interested in Deno, Rust and React VR.
 
 <br/>
 <br/>
