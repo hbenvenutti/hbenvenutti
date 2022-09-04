@@ -77,6 +77,17 @@ In process of transfer to Porto Alegre/RS
 <br/>
 <br/>
 
+# ✔️ PROJECTS THAT I'VE FINISHED
+These are my projects that have a "completed" status. I won't be working on them anytime soon.
+
+  <a href="https://github.com/hbenvenutti/biblioteca-backend">
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=hbenvenutti&repo=biblioteca-backend&theme=onedark">
+  </a>
+
+<br/>
+<hr>
+<br/>
+
 # 🔭 I’m currently working on ...
 
 ### Democratizando o ensino:
@@ -92,19 +103,8 @@ I am developing a free application to help students around the wolrd. It is a li
 <hr>
 <br/>
 
-### Projetos concluidos:
-Projetos finalizados que eu fiz como teste para provar experiência.
-
-  <a href="https://github.com/hbenvenutti/biblioteca-backend">
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=hbenvenutti&repo=biblioteca-backend&theme=onedark">
-  </a>
-
-<br/>
-<hr>
-<br/>
-
-### Brincando com Deno:
-Deno chama a minha atenção por rodar typescript nativamente. Então eu estou experimentando a tecnologia.
+### Fun with Deno:
+I am realy interested in Deno because it runs Typescript out of the box. I love Typescript and not having to config a transpiler every time I start a new project sounds like a dream come true.
 
   <a href="https://github.com/SevenSeas-tech/demen">
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hbenvenutti&repo=car_rental&theme=onedark">
