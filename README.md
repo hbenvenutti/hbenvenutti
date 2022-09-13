@@ -83,6 +83,10 @@ These are my projects that have a "completed" status. I won't be working on them
   <a href="https://github.com/hbenvenutti/biblioteca-backend">
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hbenvenutti&repo=biblioteca-backend&theme=onedark">
   </a>
+  
+  <a href="https://github.com/hbenvenutti/biblioteca-front">
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=hbenvenutti&repo=biblioteca-front&theme=onedark">
+  </a>
 
 <br/>
 <hr>
