@@ -55,7 +55,13 @@ In process of transfer to Porto Alegre/RS
  <a href="mailto:huambenvenutti@protonmail.com">
   <img alt="email" height="40" src="https://www.vectorlogo.zone/logos/protonmail/protonmail-ar21.svg" />
  </a>
+
+ <a href="https://www.hackerrank.com/huambenvenutti">
+  <img alt="hacker-rank" height="40" src="https://github.com/simple-icons/simple-icons/blob/master/icons/hackerrank.svg" />
+ </a>
 </div>
+
+
 
   <i class="fab fa-dev"></i>
 
