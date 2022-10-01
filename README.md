@@ -28,8 +28,8 @@
 <img src="https://i.imgur.com/Jxdyx95.jpg">
 
 <div align="center">
- <img height="165em" src="https://github-readme-stats.vercel.app/api?username=hbenvenutti&show_icons=true&theme=onedark&count_private=true">
- <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbenvenutti&layout=compact&theme=onedark"> 
+ <img height="165em" src="https://github-readme-stats.vercel.app/api?username=hbenvenutti&show_icons=true&theme=dracula&count_private=true">
+ <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbenvenutti&layout=compact&theme=dracula"> 
 </div>
 
 <hr>
