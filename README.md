@@ -72,12 +72,21 @@ In process of transfer to Porto Alegre/RS
 <div align="center">
  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" />
- <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+ 
+
+ <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+ <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" />
+ 
+ <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />         
  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+ 
  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
+ 
  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+ 
  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
+
 </div>
 
 <br/>
@@ -87,11 +96,11 @@ In process of transfer to Porto Alegre/RS
 These are my projects that have a "completed" status. I won't be working on them anytime soon.
 
   <a href="https://github.com/hbenvenutti/biblioteca-backend">
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=hbenvenutti&repo=biblioteca-backend&theme=onedark">
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=hbenvenutti&repo=biblioteca-backend&theme=dracula">
   </a>
   
   <a href="https://github.com/hbenvenutti/biblioteca-front">
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=hbenvenutti&repo=biblioteca-front&theme=onedark">
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=hbenvenutti&repo=biblioteca-front&theme=dracula">
   </a>
 
 <br/>
@@ -104,7 +113,7 @@ These are my projects that have a "completed" status. I won't be working on them
 I am developing a free application to help students around the world. It is a library of video classes. People will be able to search for teachers, courses, channels, etc.
    
    <a href="https://github.com/SevenSeas-tech/demen-backend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SevenSeas-tech&repo=demen-backend&theme=onedark">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SevenSeas-tech&repo=demen-backend&theme=dracula">
    </a>
    
 <div align="center"></div>
@@ -113,11 +122,15 @@ I am developing a free application to help students around the world. It is a li
 <hr>
 <br/>
 
-### Fun with Deno:
+
+ 
+
+### Fun with Deno: 
+
 I am realy interested in Deno because it runs Typescript out of the box. I love Typescript and not having to config a transpiler every time I start a new project sounds like a dream come true.
 
   <a href="https://github.com/SevenSeas-tech/demen">
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=hbenvenutti&repo=car_rental&theme=onedark">
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=hbenvenutti&repo=car_rental&theme=dracula">
   </a>
  
 
