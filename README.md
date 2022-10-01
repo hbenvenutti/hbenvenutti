@@ -94,7 +94,7 @@ In process of transfer to Porto Alegre/RS
 
 # ✔️ Projects that I've finished
 These are my projects that have a "completed" status. I won't be working on them anytime soon.
-
+ <div align="center">
   <a href="https://github.com/hbenvenutti/biblioteca-backend">
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hbenvenutti&repo=biblioteca-backend&theme=dracula">
   </a>
@@ -102,6 +102,7 @@ These are my projects that have a "completed" status. I won't be working on them
   <a href="https://github.com/hbenvenutti/biblioteca-front">
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hbenvenutti&repo=biblioteca-front&theme=dracula">
   </a>
+ </div>
 
 <br/>
 <hr>
