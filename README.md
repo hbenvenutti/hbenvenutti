@@ -36,10 +36,7 @@
 <br/>
 
 # 💬 About me
-:mortar_board: Studying Bacharelado em Sistemas de Informação on [IFC Araquari](https://araquari.ifc.edu.br/).
-In process of transfer to Porto Alegre/RS
-
-
+:mortar_board: Enrolled in Tecnólogo em Análise e Desenvolvimento de Sistemas on [IFRS](https://ifrs.edu.br/restinga/superior-ads/).
 
 :book: Studying Javascript technologies such as Node, React, Next and React Native. Also interested in Deno, Rust and React VR.
 
