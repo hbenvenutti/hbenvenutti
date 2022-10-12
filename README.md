@@ -1,3 +1,5 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=hbenvenutti&theme=dracula&column=-1&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ![Years Badge](https://badges.strrl.dev/years/hbenvenutti)
 ![Public Repos Badge](https://badges.strrl.dev/repos/hbenvenutti)
