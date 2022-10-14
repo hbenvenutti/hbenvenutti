@@ -112,11 +112,16 @@ These are my projects that have a "completed" status. I won't be working on them
 ### Democratizando o ensino:
 I am developing a free application to help students around the world. It is a library of video classes. People will be able to search for teachers, courses, channels, etc.
    
+<div align="center">
    <a href="https://github.com/SevenSeas-tech/demen-backend">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SevenSeas-tech&repo=demen-backend&theme=dracula">
    </a>
    
-<div align="center"></div>
+   <a href="https://github.com/hbenvenutti/pokedex">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hbenvenutti&repo=pokedex&theme=dracula">
+   </a>
+   
+</div>
 
 <br/>
 <hr>
