@@ -27,7 +27,8 @@
 
 <hr>
 
-<img src="https://i.imgur.com/Jxdyx95.jpg">
+<!-- <img src="https://i.imgur.com/Jxdyx95.jpg"> -->
+<img src="https://imgur.com/MsHblVo.png">
 
 <div align="center">
  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=hbenvenutti&show_icons=true&theme=dracula&count_private=true">
