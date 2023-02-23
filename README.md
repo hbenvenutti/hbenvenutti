@@ -43,7 +43,7 @@
 
 :book: Studying Javascript technologies such as Node, React, Next and React Native. Also interested in Deno, Rust and React VR.
 
-📂 If you want some visual feedback about my projects please check out my [portifolio](https://fluffy-capybara-7aa214.netlify.app/).
+📂 Checkout my [personal site](https://hbenvenutti.netlify.app/).
 
 <br/>
 <br/>
