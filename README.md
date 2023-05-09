@@ -44,7 +44,7 @@
  <img height="150px" width="auto" src="https://avatars.githubusercontent.com/u/99232245?s=200&v=4" />
  <div align="center">
   <h3><a href="https://vortigo.digital"><strong>Vortigo</strong></a></h3>
-  <p><strong>Estagiário</strong></p>
+  <p><strong>Intern</strong></p>
  </div>
 </div>
 
