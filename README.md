@@ -39,17 +39,31 @@
 <br/>
 
 # 💬 About me
+
+<div align="center" width="100%">
+ <img height="150px" width="auto" src="https://avatars.githubusercontent.com/u/99232245?s=200&v=4" />
+ <div align="center">
+  <h3><a href="https://vortigo.digital"><strong>Vortigo</strong></a></h3>
+  <p><strong>Estagiário</strong></p>
+ </div>
+</div>
+
+<br/>
+<br/>
+
 :mortar_board: Enrolled in Tecnólogo em Análise e Desenvolvimento de Sistemas on [IFRS](https://ifrs.edu.br/restinga/superior-ads/).
 
 :book: Studying Javascript technologies such as Node, React, Next and React Native. Also interested in Deno, Rust and React VR.
 
 📂 Checkout my [personal site](https://hbenvenutti.netlify.app/).
 
+
+
 <br/>
 <br/>
 
 # 📫 How to reach me
-<div>
+<div style="display: flex;">
  <a href="https://linkedin.com/in/huam-benvenutti">
   <img alt="linkedin" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
  </a>
