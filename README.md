@@ -51,12 +51,8 @@
 <br/>
 <br/>
 
-:mortar_board: Enrolled in Tecnólogo em Análise e Desenvolvimento de Sistemas on [IFRS](https://ifrs.edu.br/restinga/superior-ads/).
-
-:book: Studying Javascript technologies such as Node, React, Next and React Native. Also interested in Deno, Rust and React VR.
 
 📂 Checkout my [personal site](https://hbenvenutti.netlify.app/).
-
 
 
 <br/>
@@ -78,7 +74,6 @@
 </div>
 
 
-
   <i class="fab fa-dev"></i>
 
 <br/>
@@ -87,40 +82,51 @@
 # 🖥️ Languages and Technologies
 <div align="center">
  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
- <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" />
- 
+ <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+ <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
+ <!--  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" /> --> 
+</div>
 
+<div id="bd" align="center">
+ <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
+ <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+</div>
+
+<div id="typescript" align="center">
+ <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+ <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" />
- 
- <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />         
- <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
- 
- <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
- 
- <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
- 
- <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
- <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
- <img height="60" src="https://raw.githubusercontent.com/prisma/presskit/main/Assets/Prisma-DarkSymbol.svg "/>   
+ <img height="60" src="https://raw.githubusercontent.com/prisma/presskit/main/Assets/Prisma-DarkSymbol.svg "/>
+ <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+ <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+</div>
 
+<div id="web" align="center">
+ <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />          
+ <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+ <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />   
+</div>
+
+<div id="dotnet" align="center">
+ <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
+</div>
+
+<div id="other" align="center">
+ <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 </div>
 
 <br/>
 <br/>
 
 # ✔️ Projects that I've finished
-These are my projects that have a "completed" status. I won't be working on them anytime soon.
+These are my projects that have a "completed" status.
  <div align="center">
-  <a href="https://github.com/hbenvenutti/biblioteca-backend">
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=hbenvenutti&repo=biblioteca-backend&theme=dracula">
-  </a>
-  
-  <a href="https://github.com/hbenvenutti/biblioteca-front">
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=hbenvenutti&repo=biblioteca-front&theme=dracula">
-  </a>
+   <a href="https://github.com/hbenvenutti/pokedex">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hbenvenutti&repo=pokedex&theme=dracula">
+   </a>
  </div>
 
 <br/>
@@ -136,33 +142,18 @@ I am developing a free application to help students around the world. It is a li
    <a href="https://github.com/SevenSeas-tech/demen-backend">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SevenSeas-tech&repo=demen-backend&theme=dracula">
    </a>
-   
-   <a href="https://github.com/hbenvenutti/pokedex">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hbenvenutti&repo=pokedex&theme=dracula">
-   </a>
-   
 </div>
 
 <br/>
 <hr>
 <br/>
 
-
- 
-
-### Fun with Deno: 
-
-I am realy interested in Deno because it runs Typescript out of the box. I love Typescript and not having to config a transpiler every time I start a new project sounds like a dream come true.
-
-  <a href="https://github.com/SevenSeas-tech/demen">
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=hbenvenutti&repo=car_rental&theme=dracula">
-  </a>
- 
-
 # :feather: Some other content of my own
 
 * [Dev.to](https://dev.to/hbenvenutti)
 * [🖥️ Guide to customize zsh without Oh My Zsh!](https://dev.to/hbenvenutti/using-zsh-without-omz-4gch)
+
+<img height=300 width=auto src="https://i.imgur.com/yLlh1kX.png" />
 
 <br/>
 <br/>
@@ -170,21 +161,3 @@ I am realy interested in Deno because it runs Typescript out of the box. I love 
 <hr>
 
 ![Snake animation](https://github.com/hbenvenutti/hbenvenutti/blob/output/github-contribution-grid-snake.svg)
-
-
-
-<!--
-**hbenvenutti/hbenvenutti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
