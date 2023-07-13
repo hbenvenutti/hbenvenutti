@@ -30,9 +30,9 @@
 <!-- <img src="https://i.imgur.com/Jxdyx95.jpg"> -->
 <img src="https://imgur.com/MsHblVo.png">
 
-<div align="center">
- <img height="165em" src="https://github-readme-stats.vercel.app/api?username=hbenvenutti&show_icons=true&theme=dracula&count_private=true">
- <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbenvenutti&layout=compact&theme=dracula"> 
+<div align="justify">
+ <img height="250em" src="https://github-readme-stats.vercel.app/api?username=hbenvenutti&show_icons=true&theme=dracula&count_private=true">
+ <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbenvenutti&layout=compact&theme=dracula&langs_count=10"> 
 </div>
 
 <hr>
@@ -44,7 +44,7 @@
  <img height="150px" width="auto" src="https://avatars.githubusercontent.com/u/99232245?s=200&v=4" />
  <div align="center">
   <h3><a href="https://vortigo.digital"><strong>Vortigo</strong></a></h3>
-  <p><strong>Intern</strong></p>
+  <p><strong>Intern - .NET Developer</strong></p>
  </div>
 </div>
 
