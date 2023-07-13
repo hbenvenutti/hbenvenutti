@@ -30,10 +30,12 @@
 <!-- <img src="https://i.imgur.com/Jxdyx95.jpg"> -->
 <img src="https://imgur.com/MsHblVo.png">
 
-<div align="justify">
- <img height="250em" src="https://github-readme-stats.vercel.app/api?username=hbenvenutti&show_icons=true&theme=dracula&count_private=true">
- <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbenvenutti&layout=compact&theme=dracula&langs_count=10"> 
+<div align="center">
+ <img width="50%" src="https://github-readme-stats.vercel.app/api?username=hbenvenutti&show_icons=true&theme=dracula&count_private=true">
+<!--  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbenvenutti&layout=compact&theme=dracula&langs_count=10">  -->
+ <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbenvenutti&layout=compact&theme=dracula&langs_count=10">
 </div>
+
 
 <hr>
 <br/>
