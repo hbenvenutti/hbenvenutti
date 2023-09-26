@@ -82,6 +82,34 @@
 <br/>
 
 # 🖥️ Languages and Technologies
+<div id="dotnet" align="center">
+ <img 
+   height="60" 
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg"
+   alt="csharp"
+ />
+ <img
+		 height="60"
+		 src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/1024px-Microsoft_.NET_logo.svg.png"
+		 alt="dotnet"
+	>
+ <img 
+   height="60"
+   src="https://logodownload.org/wp-content/uploads/2016/10/Microsoft-SQL-Server-Logo-2.png"
+   alt="sql server"
+ />
+ <img
+   height="60"
+   src="https://www.aprender21.com.ar/images/colaboradores/asp.png"
+   alt="asp net"
+ />
+ <img
+   height="60"
+   src="https://devblogs.microsoft.com/aspnet/wp-content/uploads/sites/16/2019/04/BrandBlazor_nohalo_1000x.png"
+   alt="blazor"
+ />
+</div>
+
 <div align="center">
  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -112,13 +140,13 @@
  <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />   
 </div>
 
-<div id="dotnet" align="center">
- <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
+
+          
 </div>
 
-<div id="other" align="center">
- <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-</div>
+<!-- <div id="other" align="center"> -->
+<!--  <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> -->
+<!-- </div> -->
 
 <br/>
 <br/>
