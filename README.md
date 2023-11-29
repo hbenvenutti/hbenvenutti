@@ -15,7 +15,8 @@ Desenvolvedor Full Stack C# | .NET.
 - 💼 Trabalhando na [Vortigo Digital](https://vortigo.digital/).
 - 🎓 Análise e desenvolvimento de sistemas no [IFRS Restinga](https://ifrs.edu.br/restinga/).
 - 📂 [Site Pessoal](https://hbenvenutti.netlify.app/) - Work in progress.
-- :feather: Meus posts no [Dev.to](https://dev.to/hbenvenutti).
+- :feather: Posts no [Dev.to](https://dev.to/hbenvenutti).
+- 🌐 Bibliotecas [Nuget](https://www.nuget.org/profiles/hbenvenutti).
 
 </br>
 
