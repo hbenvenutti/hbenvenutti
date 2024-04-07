@@ -14,9 +14,10 @@
 
 Desenvolvedor Full Stack C# | .NET.
 
-- 💼 Trabalhando na [Vortigo Digital](https://vortigo.digital/).
+- 💼 Trabalhando na [Teamsoft](https://teamsoft.com.br/).
+<!-- - 💼 Trabalhando na [Vortigo Digital](https://vortigo.digital/). -->
 - 🎓 Análise e desenvolvimento de sistemas no [IFRS Restinga](https://ifrs.edu.br/restinga/).
-- 📂 [Site Pessoal](https://hbenvenutti.netlify.app/) - Work in progress.
+- 📂 [Site Pessoal](https://hbenvenutti.com/) - Work in progress.
 - :feather: Posts no [Dev.to](https://dev.to/hbenvenutti).
 - 🌐 Bibliotecas [Nuget](https://www.nuget.org/profiles/hbenvenutti).
 
@@ -39,7 +40,6 @@ Desenvolvedor Full Stack C# | .NET.
 <p align="right" title="Secundárias">
    <a href="https://skillicons.dev">
 	<img src="https://skillicons.dev/icons?i=ts,css,html,sass,deno,nodejs,java" />
-
   </a>
 </p>
 
