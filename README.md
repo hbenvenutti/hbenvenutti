@@ -3,7 +3,7 @@
 ![Public Repos Badge](https://badges.strrl.dev/repos/hbenvenutti)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=hbenvenutti)
 ![Contributions Badge](https://badges.strrl.dev/contributions/all/hbenvenutti)
-[![autocomplete](https://codeium.com/badges/user/hbenvenutti/autocomplete)](https://codeium.com/profile/hbenvenutti)
+<!--[![autocomplete](https://codeium.com/badges/user/hbenvenutti/autocomplete)](https://codeium.com/profile/hbenvenutti) -->
 <!-- [![streak](https://codeium.com/badges/v2/user/hbenvenutti/streak)](https://codeium.com/profile/hbenvenutti) -->
 
 <hr>
