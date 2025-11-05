@@ -31,7 +31,10 @@ Desenvolvedor Full Stack C# | .NET.
 | 🗄️ Bancos                | <img src="https://skillicons.dev/icons?i=postgres,mongodb" height="40"/> |
 | 💻 Sistemas Operacionais | <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows" height="40"/> |
 | 📝 Linguagens            | <img src="https://skillicons.dev/icons?i=cs,ts,js,java,py" height="40"/> |
-| 🔧 Ferramentas/DevOps    | <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,github,git" height="40"/> |
+| 🔧 Ferramentas/DevOps    | <img src="https://skillicons.dev/icons?i=nginx,docker,kubernetes,github,git" height="40"/> |
+| ☁️ Cloud Providers       | <img src="https://skillicons.dev/icons?i=aws,azure,gcp" height="40"/> |
+| 📊 Observabilidade       | <img src="https://skillicons.dev/icons?i=grafana,prometheus,elasticsearch" height="40"/>
+| 🖥️ IDEs                  | <img src="https://skillicons.dev/icons?i=rider,webstorm" height="40"/> |
 
 </br>
 
@@ -51,9 +54,9 @@ Desenvolvedor Full Stack C# | .NET.
 
 <br/>
 
-## ✔️ Projetos
 
 <!-- <div align="center">
+## ✔️ Projetos
 	<a href="https://github.com/hbenvenutti/Demen.Net">
     	<img src="https://github-readme-stats.vercel.app/api/pin/?username=hbenvenutti&repo=Demen.Net&theme=dracula">
    	</a>
