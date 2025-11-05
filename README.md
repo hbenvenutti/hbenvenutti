@@ -23,25 +23,15 @@ Desenvolvedor Full Stack C# | .NET.
 
 </br>
 
-## 🚀 Main Stack
-
-<p align="left" title="Main">
-   <a href="https://skillicons.dev">
-	<img align=left src="https://skillicons.dev/icons?i=cs,dotnet,postgres,linux" />
-	<img 	align=left
-		height="45"
-	   	src="https://devblogs.microsoft.com/aspnet/wp-content/uploads/sites/16/2019/04/BrandBlazor_nohalo_1000x.png"
-	   	alt="blazor"
-		title="Blazor"
-	/>
-     </a>
-</p>
-
-<p align="right" title="Secundárias">
-   <a href="https://skillicons.dev">
-	<img src="https://skillicons.dev/icons?i=ts,css,html,sass,deno,nodejs,java" />
-  </a>
-</p>
+| Descrição               | Tecnologias                                                                 |
+|--------------------------|------------------------------------------------------------------------------|
+| 🚀 Main Stack            | <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,linux" height="40"/> |
+| 🌐 Web                   | <img src="https://skillicons.dev/icons?i=angular,react,ts,js,css,html,sass" height="40"/> |
+| ⚙️ Backend               | <img src="https://skillicons.dev/icons?i=dotnet,nestjs,nodejs,spring" height="40"/> |
+| 🗄️ Bancos                | <img src="https://skillicons.dev/icons?i=postgres,mongodb" height="40"/> |
+| 💻 Sistemas Operacionais | <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows" height="40"/> |
+| 📝 Linguagens            | <img src="https://skillicons.dev/icons?i=cs,ts,js,java,py" height="40"/> |
+| 🔧 Ferramentas/DevOps    | <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,github,git" height="40"/> |
 
 </br>
 
@@ -63,7 +53,7 @@ Desenvolvedor Full Stack C# | .NET.
 
 ## ✔️ Projetos
 
-<div align="center">
+<!-- <div align="center">
 	<a href="https://github.com/hbenvenutti/Demen.Net">
     	<img src="https://github-readme-stats.vercel.app/api/pin/?username=hbenvenutti&repo=Demen.Net&theme=dracula">
    	</a>
@@ -76,9 +66,9 @@ Desenvolvedor Full Stack C# | .NET.
 	<a href="https://github.com/hbenvenutti/pokedex">
     	<img src="https://github-readme-stats.vercel.app/api/pin/?username=hbenvenutti&repo=pokedex&theme=dracula">
    	</a>
-</div>
+</div> -->
 
-<br/>
+<!-- <br/> -->
 <hr>
 
 
